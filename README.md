@@ -6,6 +6,10 @@ This repository contain a Github-Profile-Scraper Project Build using Web scaping
 ```
 git clone https://github.com/Pankaj-SinghR/Github-Profile-Scraper.git
 ```
+### Change directory
+```
+cd Github-Profile-Scraper
+```
 ### Create a virtual environment
 ```
 python3 -m virtualenv env
