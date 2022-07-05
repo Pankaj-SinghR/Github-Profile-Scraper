@@ -1,5 +1,10 @@
 # Github-Profile-Scraper
-This repository contain a Github-Profile-Scraper Project Build using Web scaping library called Beautiful soup
+
+### What Github-Profile-Scraper does?
+- Find the user if it's available in github
+- Show Information like name of user, no. of followers, following and repositories
+- Show all the social link of the user
+- Show all the link of the blogs written by the user as an Output
 
 ### Clone the Repository
 
@@ -27,3 +32,6 @@ pip install -r requirements.txt
 ```
 python scraper.py
 ```
+---
+Output Sample
+![](./Output.png)
